@@ -11,7 +11,7 @@ I'm Aryadne Fernanda (you can call me either one) and I'm a Full Stack student �
 - 💻 I’m looking for a junior position. Freelancer, part time or full time.
 - 🇧🇷 Portugues is my native language. I speak fluent English and basic Spanish.
 - 🎤 I have a degree in Journalism and I published a non-fiction book in Brazil in 2015.
-- 📺 My hobby is reading, playing video games and travel whenever is possible.
+- 📺 My hobbies are reading, playing video games and travel whenever is possible.
 - 🔮 Ask me about anything.
 - 👻 Pronouns: She/Her.
 
