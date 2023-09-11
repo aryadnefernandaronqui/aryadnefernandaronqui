@@ -7,7 +7,7 @@ I'm Aryadne Fernanda (you can call me either one) and I'm a Full Stack student �
 
 <!-- TODO: Add last video link -->
 
-- 📚 I’m currently learning HTML, CSS, JavaScript, Typescrip and React.
+- 📚 I’m currently learning HTML, CSS, JavaScript, Typescrip, React, Java, SQL and NodeJS.
 - 💻 I’m looking for a junior position. Freelancer, part time or full time.
 - 🇧🇷 Portugues is my native language. I speak fluent English and basic Spanish.
 - 🎤 I have a degree in Journalism and I published a non-fiction book in Brazil in 2015.
